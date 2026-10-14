@@ -32,6 +32,10 @@ The objective of this project is to develop a Machine Learning-based system that
 * Detect anomalous behavior.
 * Differentiate between normal and attack traffic.
 * Visualize network security patterns.
+---
+
+## Streamlit Dashboard
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/84a0fce2-7fcd-4b7f-8723-8868c33da3dc" />
 
 ---
 
